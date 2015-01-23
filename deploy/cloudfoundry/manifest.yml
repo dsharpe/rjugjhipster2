@@ -1,0 +1,7 @@
+---
+path: .
+instances: 1
+services:
+- rjugjhipster2
+applications:
+- name: rjugjhipster2
